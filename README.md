@@ -1,1 +1,1 @@
-# awesome-chocolate
+# awesome-chocolate dashboard
